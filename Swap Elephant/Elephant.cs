@@ -20,7 +20,7 @@ namespace Swap_Elephant
 
         public void SpeakTo(string msg, Elephant whoToTalkTo)
         {
-            this.TellMe(msg, whoToTalkTo);
+            whoToTalkTo.TellMe(msg, this);
         }
     }
 }
