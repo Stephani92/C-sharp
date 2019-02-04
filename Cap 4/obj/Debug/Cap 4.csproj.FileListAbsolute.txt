@@ -1,0 +1,10 @@
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\bin\Debug\Cap 4.exe.config
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\bin\Debug\Cap 4.exe
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\bin\Debug\Cap 4.pdb
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap 4.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap_4.Form1.resources
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap_4.Properties.Resources.resources
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap 4.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap 4.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap 4.exe
+C:\Users\Stephani\source\repos\Cap 4\Cap 4\obj\Debug\Cap 4.pdb
