@@ -1,0 +1,10 @@
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\bin\Debug\Game Corridas.exe.config
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\bin\Debug\Game Corridas.exe
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\bin\Debug\Game Corridas.pdb
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game Corridas.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game_Corridas.Form1.resources
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game_Corridas.Properties.Resources.resources
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game Corridas.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game Corridas.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game Corridas.exe
+C:\Users\Stephani\source\repos\Game Corridas\Game Corridas\obj\Debug\Game Corridas.pdb
