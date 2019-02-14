@@ -1,0 +1,10 @@
+C:\Users\Stephani\source\repos\Jantar\Jantar\bin\Debug\Jantar.exe.config
+C:\Users\Stephani\source\repos\Jantar\Jantar\bin\Debug\Jantar.exe
+C:\Users\Stephani\source\repos\Jantar\Jantar\bin\Debug\Jantar.pdb
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.csprojAssemblyReference.cache
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.Form1.resources
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.Properties.Resources.resources
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.csproj.GenerateResource.cache
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.csproj.CoreCompileInputs.cache
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.exe
+C:\Users\Stephani\source\repos\Jantar\Jantar\obj\Debug\Jantar.pdb
